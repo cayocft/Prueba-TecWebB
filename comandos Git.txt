@@ -5,3 +5,10 @@ Para verificar instalación de git:
 Autenticación en GitHub
 >git config user.name "Edgardo Cayo"
 >git config user.email "edgardo.cayo.miranda@cftmail.cl"
+
+Subir proyecto a git
+
+>git init
+>git add . 
+>git commit -m "cualquier comentario"
+>git remote add origin www.linkdelrepositorio.com
