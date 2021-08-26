@@ -1,0 +1,7 @@
+Para verificar instalación de git:
+> git --version
+
+
+Autenticación en GitHub
+>git config user.name "Edgardo Cayo"
+>git config user.email "edgardo.cayo.miranda@cftmail.cl"
