@@ -12,3 +12,4 @@ Subir proyecto a git
 >git add . 
 >git commit -m "cualquier comentario"
 >git remote add origin www.linkdelrepositorio.com
+>git push -u origin master
